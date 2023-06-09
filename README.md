@@ -1,4 +1,4 @@
-# Neural-Networks
+# Deep-Learning
 
 
 "Intelligent Waste Classifier: Advanced CNN Architectures for Next-Generation Recycling with Deep Learning and Custom Datasets"
