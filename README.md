@@ -1,6 +1,5 @@
 # Neural-Networks
 
-Neural_Nets_Final_Project:
 
 "Intelligent Waste Classifier: Advanced CNN Architectures for Next-Generation Recycling with Deep Learning and Custom Datasets"
 
